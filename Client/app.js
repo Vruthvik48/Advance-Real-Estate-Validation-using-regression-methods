@@ -12,6 +12,7 @@ function getBathValue() {
     var uiBHK = document.getElementsByName("uiBHK");
     for(var i in uiBHK) {
       if(uiBHK[i].checked) {
+          
           return parseInt(i)+1;
       }
     }
