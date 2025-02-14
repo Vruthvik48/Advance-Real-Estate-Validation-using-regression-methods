@@ -20,11 +20,9 @@ This Machine Learning project series walks through step by step process of how t
 The project utilizes real estate datasets from various sources:
 - Kaggle real estate datasets
 - Public government property databases
-- Custom collected datasets
 
 ## Model Evaluation Metrics
 - Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - R-squared (R²)
 
