@@ -164,7 +164,3 @@ This will launch the API, which can be tested using **Postman**.
 
 ---
 
-## **4. Conclusion**
-This document provides a step-by-step guide to setting up and running the Real Estate Price Prediction project. If you encounter any issues, ensure that all dependencies are installed correctly and the required tools (Flask, Postman, PyCharm) are properly configured.
-
-
